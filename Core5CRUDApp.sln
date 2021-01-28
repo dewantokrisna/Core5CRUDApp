@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core5CRUDApp", "Core5CRUDApp\Core5CRUDApp.csproj", "{0DDF846B-FA5A-4C23-B617-8E251727A83A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDF846B-FA5A-4C23-B617-8E251727A83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDF846B-FA5A-4C23-B617-8E251727A83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDF846B-FA5A-4C23-B617-8E251727A83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDF846B-FA5A-4C23-B617-8E251727A83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB04B0B-A138-4F6C-8F51-97C4B4FAACD8}
+	EndGlobalSection
+EndGlobal
